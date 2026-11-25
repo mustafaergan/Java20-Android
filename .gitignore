@@ -1,0 +1,24 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Günlükler ve ortam değişkenleri
+*.log
+.env
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
